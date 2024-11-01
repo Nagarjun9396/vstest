@@ -6,7 +6,7 @@ import io
 st.set_page_config( page_title = "Dashboard", page_icon = '📊' )
 
 
-File = st.file_uploader("Pic Excel file")
+File = st.file_uploader("Pic Excel")
 
 
 
